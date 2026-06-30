@@ -1,0 +1,26 @@
+title,genre
+Avatar,Sci-Fi
+Interstellar,Sci-Fi
+Inception,Sci-Fi
+The Martian,Sci-Fi
+Gravity,Sci-Fi
+Titanic,Romance
+The Notebook,Romance
+La La Land,Romance
+Your Name,Romance
+Me Before You,Romance
+The Conjuring,Horror
+Insidious,Horror
+Annabelle,Horror
+The Nun,Horror
+IT,Horror
+Avengers: Endgame,Action
+Iron Man,Action
+Captain America: Civil War,Action
+Spider-Man: No Way Home,Action
+Black Panther,Action
+3 Idiots,Comedy
+PK,Comedy
+Munna Bhai M.B.B.S.,Comedy
+Chhichhore,Comedy
+Golmaal,Comedy
